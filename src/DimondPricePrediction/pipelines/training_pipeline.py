@@ -1,4 +1,4 @@
-from src.DimondPricePrediction.components.data_ingestion import DataIngestion
+cdfrom src.DimondPricePrediction.components.data_ingestion import DataIngestion
 
 from src.DimondPricePrediction.components.data_transformation import DataTransformation
 
